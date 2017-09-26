@@ -1,0 +1,1 @@
+﻿get-eventlog -LogName Application -Newest 100
